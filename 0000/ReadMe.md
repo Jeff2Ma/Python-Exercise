@@ -28,3 +28,9 @@
 ### 【Windows】报错“ImportError: The _imagingft C module is not installed
 
 官网下载的PIL 安装包有问题，先在机子上卸载后重新安装附带的exe文件
+
+### 参考文章
+
+http://stackoverflow.com/questions/16373425/add-text-on-image-using-pil
+
+http://yongyuan.name/pcvwithpython/chapter1.html
