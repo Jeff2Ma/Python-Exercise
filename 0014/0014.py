@@ -19,7 +19,7 @@ content = open('student.json').read()
 
 ddata = json.loads(content)
 
-file = xlwt.Workbook()
+file = xlwt.Workbook(encoding = 'utf-8')
 
 """
 如果对一个单元格重复操作，会引发
@@ -32,6 +32,7 @@ table = file.add_sheet('new-sheet',cell_overwrite_ok=True)
 
 for id in range(len(ddata)):
     # table.write(行,列,value)
+
     table.write(id,0,id+1)
     for val in range(len(ddata[str(id+1)])):
         table.write(id,val,ddata[str(id+1)][val])
