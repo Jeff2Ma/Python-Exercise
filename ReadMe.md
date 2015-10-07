@@ -1,10 +1,8 @@
-原链接：https://github.com/Yixiaohan/show-me-the-code
-
-个人的答案，里面附有做的时候的一些笔记记录。
-
-
 ## Python 练习册，每天一个小程序 ##
 
+题目来源：https://github.com/Yixiaohan/show-me-the-code
+
+此处是个人的答案，里面附有做的时候的一些笔记记录。
 
 #### 说明： ####
 
