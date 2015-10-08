@@ -1,0 +1,35 @@
+.main{
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.container{
+	width: 620px!important;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+table{
+	border-color: #d8d8d8!important;
+	width: 620px;
+}
+
+table tr{
+	border-color: #d8d8d8;
+	line-height: 30px;
+}
+
+table td{
+	padding: 2px 4px;
+}
+
+textarea{
+	width: 100%;
+	height: 220px;
+}
+
+.edit-a{
+	color: inherit;
+}
