@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # by JeffMa at http://devework.com/
 """
-第 0024 题： 使用 Python 的 Web 框架，做一个 Web 版本 TodoList 应用。
+第 0023 题： 使用 Python 的 Web 框架，做一个 Web 版本 留言簿 应用。
 
 """
 
